@@ -12,3 +12,4 @@ print(years["Next"])
 
 df <- data.frame(index = 1:5, dat = rnorm(5))
 print(df)
+print(cars)

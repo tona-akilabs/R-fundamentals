@@ -47,3 +47,9 @@ print(as.numeric(c("1", "2.718", "7.389", "20.086"))) #[1]  1.000  2.718  7.389 
 print(as.numeric(FALSE)) #[1] 0
 print(as.numeric(TRUE)) #[1] 1
 
+#5.29 Converting One Structured Data Type into Another
+
+#as.data.frame(x)
+#as.list(x)
+#as.matrix(x)
+#as.vector(x)
